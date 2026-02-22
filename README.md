@@ -20,8 +20,8 @@ I'm a competitive gamer in my free time and have played at a top level. 🎮 �
 ## Available Projects 📝
 | Project | Description |
 |--------------|---------------|
-| [Duck Club](samplelink) | 2D, open exploration game with character customization, interactive minigames, and multiple dynamic scenes using turtle graphics |
-| [Spelling Bee](samplelink) | C++ word game, inspired by the NYT’s own Spelling Bee, with additional features such as timer-based gameplay and local leaderboards using multi-file programming  |
+| [Duck Club](https://github.com/Jorge-A-M/Duck-Club) | 2D, open exploration game with character customization, interactive minigames, and multiple dynamic scenes using turtle graphics |
+| [Spelling Bee](https://github.com/Jorge-A-M/Spelling-Bee) | C++ word game, inspired by the NYT’s own Spelling Bee, with additional features such as timer-based gameplay and local leaderboards using multi-file programming  |
 
 
 
