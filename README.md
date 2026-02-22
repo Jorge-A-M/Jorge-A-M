@@ -10,6 +10,8 @@ I'm a competitive gamer in my free time and have played at a top level. 🎮 �
 
 **👨‍💻 Software:** C++, C, Python
 
+**🤖 ML:** NumPy, Pandas, PyTorch
+
 **🔨 Hardware:** I ❤️ PC building.
 
 **🇲🇽 🇺🇸 Languages (Spoken):** English, Spanish
