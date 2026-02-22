@@ -4,7 +4,7 @@ I'm Jorge, a Computer Science student at the University of Illinois Chicago with
 
 I'm currently focusing on finishing my degree and growing as a programmer as much as possible!
 
-I'm a competitive gamer in my free time and have played at a top level.
+I'm a competitive gamer in my free time and have played at a top level. 🎮 🏆
 
 ## 
 
